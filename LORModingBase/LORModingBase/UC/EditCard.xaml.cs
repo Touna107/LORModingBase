@@ -166,7 +166,7 @@ namespace LORModingBase.UC
         /// <summary>
         /// Ranege info name
         /// </summary>
-        private List<string> RANGE_LOOP_LIST = new List<string>() { "Near", "Far", "FarArea", "FarAreaEach" };
+        private List<string> RANGE_LOOP_LIST = new List<string>() { "Near", "Far", "FarArea", "FarAreaEach","Instance" };
 
         /// <summary>
         /// Option info name
